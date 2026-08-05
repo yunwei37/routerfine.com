@@ -6,7 +6,7 @@
 - Last data window: none
 - Last site-change pull request: https://github.com/yunwei37/routerfine.com/pull/1
 - Last squash merge: `8e2047bedc5abccf66e7bf181ef846de3357e5ae`
-- Last closeout pull request: pending delivery of the current metadata-only update
+- Last closeout pull request: https://github.com/yunwei37/routerfine.com/pull/2
 - Last successful production deployment: `2026-08-04 23:56 America/Los_Angeles`, project `routerfine-com`
 - Last public verification: `2026-08-05 00:03 America/Los_Angeles`
 - Skill submodule commit: `516e9e2dcf012506a677a749049d64c5914643e9`
